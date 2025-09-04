@@ -59,7 +59,4 @@ pip install -r requirements.txt
 # Execute a aplicação
 python Organizador_de_arquivos.py
 
-Bash
-
-python Organizador_de_arquivos.py
 ```
